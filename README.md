@@ -1,3 +1,3 @@
 # Flutter IoT App UI Challenge
 
-https://github.com/lebe24/confident-girl/raw/master/confident.gif
+<img src="flutter-iot.gif" loading="lazy" class="img-fluid" alt="">  
